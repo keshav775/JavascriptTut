@@ -11,7 +11,7 @@
 
 //2
 // var age = parseInt(prompt("Enter your age: "))
-// age > 18 ? document.write("You can vote") : document.write("You can't vote")
+// age >= 18 ? document.write("You can vote") : document.write("You can't vote")
 
 //3
 var num = Number(prompt("Enter a Number: "))
